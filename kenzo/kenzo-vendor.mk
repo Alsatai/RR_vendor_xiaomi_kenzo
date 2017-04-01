@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kenzo/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/xiaomi/kenzo/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/kenzo/proprietary/bin/cnd:system/bin/cnd \
-    vendor/xiaomi/kenzo/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/xiaomi/kenzo/proprietary/bin/consumerird:system/bin/consumerird \
     vendor/xiaomi/kenzo/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/xiaomi/kenzo/proprietary/bin/garden_app:system/bin/garden_app \
